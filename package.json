@@ -1,5 +1,5 @@
 {
-  "name": "package-ts-example",
+  "name": "ident-wrap-ts",
   "version": "1.0.0",
   "description": "sample batch script",
   "scripts": {
@@ -11,16 +11,17 @@
   "author": "WriteCoin",
   "license": "ISC",
   "devDependencies": {
+    "ceres-decl": "^1.0.8",
     "ceres-tstl": "^0.31.0-patch1",
     "lua-types": "2.8.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/W3TS-Project/package-ts-example.git"
+    "url": "git+https://github.com/W3TS-Project/ident-wrap-ts.git"
   },
   "bugs": {
-    "url": "https://github.com/W3TS-Project/package-ts-example/issues"
+    "url": "https://github.com/W3TS-Project/ident-wrap-ts/issues"
   },
-  "homepage": "https://github.com/W3TS-Project/package-ts-example#readme",
+  "homepage": "https://github.com/W3TS-Project/ident-wrap-ts#readme",
   "main": "index.ts"
 }
