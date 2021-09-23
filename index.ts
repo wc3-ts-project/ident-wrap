@@ -1,3 +1,3 @@
-import { init } from "./src/file";
-
-init()
+export const init = () => {
+    print("ident-wrap")
+}
